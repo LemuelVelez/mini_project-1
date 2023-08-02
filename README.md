@@ -3,7 +3,7 @@
 # TEAM NAME : (Portfolio Landing Page_Mini-Project 1 | Mini-Project 2 | Capstone)
 
 ## Background Of The project
-It 
+This project is composed of other exercises in html and css for the past month.
 ## Sitemap
 
 ## Wireframe LFD and HFD Link: 

@@ -25,6 +25,7 @@ https://github.com/LemuelVelez
 
 1. HTML , CSS, and Javascript
 2. github and netlify
+3. bootstrap 5.3.1
 
 ## TEAM CONTRIBUTORS:
 

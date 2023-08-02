@@ -8,17 +8,23 @@ This project is composed of other exercises in html and css for the past month.
 
 ## Wireframe LFD and HFD Link: 
 https://www.figma.com/proto/ZtvB0zbGQOlNwdX3nJ67aM/Low-Fidelity-%26-High-Fidelity-Design?type=design&node-id=10-38&t=zHGz9wQ9imfBKap8-1&scaling=min-zoom&page-id=0%3A1&mode=design
+
+###
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/6f86b80e-e262-458e-a46b-0aabd23a789b)
 
-
+### 
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/e0b022fe-3140-46c1-8ece-32d901a9dd1e)
 
+### 
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/c61ec93b-a7de-4b35-9f9d-98ced6c9c49d)
 
+### 
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/9cec1465-51a2-41a8-af40-9246e27eeaaf)
 
+###
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/47ec6264-fb5d-4894-a22b-91dbe15bcd08)
 
+### 
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/dfb06624-d485-41cc-8601-439104e52cfc)
 
 ## Github Page Link: 

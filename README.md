@@ -44,6 +44,7 @@ https://github.com/LemuelVelez
 1. HTML , CSS, and Javascript
 2. github and netlify
 3. bootstrap 5.3.1
+4. canva
 
 ## TEAM CONTRIBUTORS:
 
@@ -91,7 +92,7 @@ https://github.com/LemuelVelez
 ## ADDITIONAL POST-RELEASE FEATURES (OPTIONAL)
 
 1. Improve UI and functionalities
-2.
+2. Fix errors in css and html validators
 3.
 4.
 5.

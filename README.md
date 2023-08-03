@@ -78,8 +78,7 @@ https://github.com/LemuelVelez
 
 ## TESTING DONE:
 
-### SCREEN SHOT OF SCHEMA VALIDATION 
-![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/794f8613-fdff-478c-9338-fcce255da5be)
+
 
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS MOBILE
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/aa731244-990b-41ff-af0a-cece0063eec5)

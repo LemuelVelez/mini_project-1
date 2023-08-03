@@ -82,10 +82,12 @@ https://github.com/LemuelVelez
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/794f8613-fdff-478c-9338-fcce255da5be)
 
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS MOBILE
-![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/f4fa500d-0ecc-434e-9820-c2c481a56fe7)
+![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/aa731244-990b-41ff-af0a-cece0063eec5)
+
 
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS DESKTOP
-![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/c1256b81-818e-4b0f-9753-17f8b39a7770)
+![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/0a651a18-c728-481d-9465-2abbc8b4f6dc)
+
 
 ## ADDITIONAL POST-RELEASE FEATURES (OPTIONAL)
 

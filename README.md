@@ -32,8 +32,8 @@ https://github.com/LemuelVelez
 ## Two weeks prior of the mini-project
 
 ## Project Goals / Services provided by the Application
-
 1. To showcase the progress of learning Web Development under KodeGo.
+   
 ## TECHNOLOGIES and VERSIONS
 
 1. HTML , CSS, and Javascript

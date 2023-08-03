@@ -34,11 +34,6 @@ https://github.com/LemuelVelez
 ## Project Goals / Services provided by the Application
 
 1. To showcase the progress of learning Web Development under KodeGo.
-2.
-3.
-4.
-5.
-
 ## TECHNOLOGIES and VERSIONS
 
 1. HTML , CSS, and Javascript
@@ -46,40 +41,13 @@ https://github.com/LemuelVelez
 3. bootstrap 5.3.1
 4. canva
 
-## TEAM CONTRIBUTORS:
-
-1. Member name 1
-2. Member name 2
-3. Member name 3
-4. Member name 4
-5. Member name 5
-
-## OUTSIDE CONTRIBUTORS:
-1. 
-2. 
-3.
-
 
 ## CURRENT FEATURES IMPLEMENTED
 
 1. Responsive web design
-2.
-3.
-4.
-5.
-
-
-## TESTING AND DEBUGGING TASKS DONE (POSSIBLE BUGS IN THE APPLICATION)
-1. SPEED TEST
-2. SEMANTIC VALIDATION
-3. RESPONSIVE WEB TEST 
-4.
-5.
 
 
 ## TESTING DONE:
-
-
 
 ### SCREEN SHOT OF GOOGLE PAGE SPEED INSIGHTS MOBILE
 ![image](https://github.com/LemuelVelez/mini_project-1/assets/138591940/aa731244-990b-41ff-af0a-cece0063eec5)
@@ -93,6 +61,3 @@ https://github.com/LemuelVelez
 
 1. Improve UI and functionalities
 2. Fix errors in css and html validators
-3.
-4.
-5.
